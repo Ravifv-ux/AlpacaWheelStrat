@@ -1,2 +1,2 @@
-API_KEY = "PKYG5XAHB7K3H3GFFLUPVRBIRW"
-SECRET_KEY = "AVT2KXP1Y3ah91TD6Eo5yr7ohTCB6UMe2J4VA3jmkD1U"
+# Sensitive credentials removed.
+# This file intentionally contains no API keys or secrets.
